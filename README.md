@@ -78,5 +78,9 @@ Elegant and responsive landing page for perfumes.
 Responsive carpet e-commerce page with Bootstrap Icons.  
 [🔗 View Repository](https://github.com/dvlprpy/carpet_website.git)  
 
+### 🏬 Super Shop Website
+super web application with react next js & react router
+[🔗 View Repository](https://github.com/dvlprpy/super-webapp.git) 
+
 ---
 ⭐️ From [dvlprpy](https://github.com/dvlprpy)
