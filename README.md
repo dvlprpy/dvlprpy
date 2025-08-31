@@ -20,7 +20,7 @@ I’m passionate about **web development, networking, and automation**, and here
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin:5px"/>
@@ -30,7 +30,7 @@ I’m passionate about **web development, networking, and automation**, and here
 ### ⚙️ Backend  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin:5px"/>
 </p>
 
@@ -39,15 +39,15 @@ I’m passionate about **web development, networking, and automation**, and here
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" height="40" style="margin:5px"/>
 </p>
 
 
 
 ### 🐍 Python & Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+</p> 
 
 ### 🌐 Networking & Automation
 - Networking Concepts & Tools  
