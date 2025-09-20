@@ -58,6 +58,10 @@ I’m passionate about **web development, networking, and automation**, and here
 
 ## 📂 Featured Projects
 
+### 📦 فایل‌شاپ (File Shop)
+یک وبسایت فروش فایل و پکیج با Laravel، Blade، SweetAlert، Chart.js و پشتیبانی از تاریخ جلالی.  
+[🔗 View Repository](https://github.com/dvlprpy/file-shop.git)
+
 ### 🛍️ Store Dashboard
 Responsive dashboard for managing store sales.  
 [🔗 View Repository](https://github.com/dvlprpy/Dashboard1.git)
